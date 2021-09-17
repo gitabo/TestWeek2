@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWeek2.Lib", "TestWeek2.Lib\TestWeek2.Lib.csproj", "{78D7C5A5-FB89-46B8-A570-71E43092777E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagazzinoConsole", "MagazzinoConsole\MagazzinoConsole.csproj", "{4C678F72-49A2-438C-88EF-94B04D18B183}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78D7C5A5-FB89-46B8-A570-71E43092777E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D7C5A5-FB89-46B8-A570-71E43092777E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D7C5A5-FB89-46B8-A570-71E43092777E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D7C5A5-FB89-46B8-A570-71E43092777E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C678F72-49A2-438C-88EF-94B04D18B183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C678F72-49A2-438C-88EF-94B04D18B183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C678F72-49A2-438C-88EF-94B04D18B183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C678F72-49A2-438C-88EF-94B04D18B183}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {845D7DDC-3040-4E0A-8CFE-A5DA34C07C50}
+	EndGlobalSection
+EndGlobal
