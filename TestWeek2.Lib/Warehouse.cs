@@ -4,6 +4,7 @@ using System.Collections.Generic;
 
 namespace TestWeek2.Lib
 {
+    //Il program si trova in MagazzinoConsole
     public class Warehouse<T> : IEnumerable<T> where T : IGood
     {
         public Guid IdMagazzino { get; set; }

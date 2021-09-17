@@ -40,8 +40,8 @@ namespace MagazzinoConsole
 
             magazzino = magazzino - eg;//controllo rimozione
 
-            Console.WriteLine("");
-            Console.WriteLine("Inserisci una merce: (q per uscire)");
+            //Console.WriteLine("");
+            //Console.WriteLine("Inserisci una merce: (q per uscire)");
 
             //input da console
             //while (Console.ReadLine() != "q")
